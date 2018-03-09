@@ -2,34 +2,23 @@ url: https://phpwebdevelope.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
+title: Fashion House
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Jamaican Fashion Couture House for womenswear."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: M. M. Fennel
   pic: 1
-  position: Lead Designer
+  position: Creative Director
   social:
     - title: twitter
-      url: #
+      url: https://www.twitter.com/houseoffennel
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url:  https://www.facebook.com/houseoffennel
+    - title: instagram
+      url: https://www.instagram.com/houseoffennel
 
 - name: Diana Petersen
   pic: 3
@@ -45,20 +34,21 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/houseoffennel
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url:https://www.facebook.com/houseoffennel
+  - title: instagram
+    url: https://www.instagram.com/houseoffennel
+  - title: google plus 
+    url: http://plus.google.com/houseoffennel
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Portmore
+  - line: Jamaica
+  - line: West Indies
 
 # Build settings
 markdown: kramdown
